@@ -5,6 +5,6 @@ package com.brainacad.javacourse.lesson1;
  */
 public class MyFirstClass {
     public static void main(String[] arg){
-        System.out.println("Hello hello brain academy!");
+        System.out.println("Hello hello brain hjfjkhll academy!");
     }
 }
